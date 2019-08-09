@@ -1,4 +1,4 @@
-package testpack;
+package rest;
 
 import java.util.List;
 
@@ -69,5 +69,5 @@ public class Pet {
 		return "Pet [id=" + id + ", category=" + category + ", name=" + name + ", photoUrls=" + photoUrls + ", tags="
 				+ tags + ", status=" + status + "]";
 	}
-	
+
 }
